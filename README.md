@@ -22,7 +22,7 @@ Unused Column Deletion: Columns that were no longer needed after cleaning, such 
 
 **Files**
 
-data_cleaning_script.sql: SQL script containing the code used for cleaning the Nashville housing dataset.
+Data Cleaning Code.sql: SQL script containing the code used for cleaning the Nashville housing dataset.
 Nashville Housing Data for Data Cleaning.xlsx: Data used prior to cleaning.
 
 
